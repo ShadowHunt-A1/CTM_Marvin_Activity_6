@@ -1,60 +1,51 @@
-===== CYBER THREAT LOG REPORT =====
-Name: 
-Handle:
-Start Time: 
-End Time: 
-Duration (minutes): 
-Score: 
-Rating: 
 
+===== CYBER THREAT LOG REPORT =====
+Name: Marvin Bodonal
+Handle: ShadowHunt-A1
+Start Time: 2026-09-22 10:13:20.914331
+End Time: 2026-09-22 10:16:42.447876
+Duration (minutes): 3.36
+Score: 9/10
+Rating: ADVANCED
 ---- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMTP Phishing Campaign
+ALERT: Failed login attempt detected from 192.168.1.244 on port
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: RDP Brute Force Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SSH Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.146 on port
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Proxy Web Exploit
+CRITICAL: Ransomware activity suspected via
+CRITICAL: Ransomware activity suspected via
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: DNS Amplification DDoS
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.130 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTP Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.209 on port
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Telnet Credential Theft
+WARNING: Multiple authentication failures for service
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: FTP Credential Sniffing
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: MySQL Data Theft
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTPS Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.48 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
 ===================================
